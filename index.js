@@ -1,9 +1,10 @@
 let name = "Поки";
 
-alert( `hello ${"Привет дафуля"}` ); // ?
+alert("Привет дафуля"); // ?
 
-alert( `hello ${"Люблю тебя"}` ); // ?
+alert( "Люблю тебя"); // ?
 
 
-alert( `hello ${name}` ); // ?
+alert( `${name}` ); // ?
+
 
