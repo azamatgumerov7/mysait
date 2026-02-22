@@ -1,7 +1,8 @@
-let name = "Ilya";
+let name = "Поки";
 
-alert( `hello ${1}` ); // ?
+alert( `hello ${Привет дафуля}` ); // ?
 
-alert( `hello ${"name"}` ); // ?
+alert( `hello ${"Люблю тебя"}` ); // ?
+
 
 alert( `hello ${name}` ); // ?
